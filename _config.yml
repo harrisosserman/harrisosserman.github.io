@@ -8,13 +8,13 @@ permalink:        pretty
 # Setup
 title:            Harris Osserman
 tagline:          ''
-description:      '👋 I’m the Founder & CEO at Talk Hiring. We’re building a realistic mock interviewing tool with instant feedback that’s fully automated.'
+description:      '👋 I’m building a realistic mock interviewing tool with instant feedback that’s fully automated (<a href='https://talkhiring.com'>Talk Hiring</a>).'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Harris Osserman'
+  url:            https://twitter.com/harrisosserman
 
 paginate:         5
 
