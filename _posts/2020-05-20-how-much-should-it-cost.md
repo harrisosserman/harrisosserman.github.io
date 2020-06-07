@@ -5,7 +5,7 @@ title: "How much should it cost?"
 Talk Hiring sells its mock interviewing tool primarily to nonprofit job training programs, and more recently, high schools.  There are playbooks online on how to price online educational tools for schools, but not as much for nonprofits.  I’ve spent many days squirming around, trying to figure out the optimal strategy for pricing the tool, and I thought that walking you through my pricing evolution may be helpful.
 
 **June 2019: No Longer Free Forever.**
-We offered custom flat-rate discounted pricing based on the number of potential users.  New programs were offered 6-week free trials.  <a href='/transitioning-from-free-pilots-to-a-paid-product'>Link to blog post.</a>
+We offered custom flat-rate discounted pricing based on the number of potential users.  New programs were offered 6-week free trials.
 
 **August 2019.  No free trials.**
 Instead of free trials, we offered 60-day money back guarantees and continue to price based on the number of potential users.  It was the early days of charging for Talk Hiring, and I wanted to work with only serious prospects with budget.  For the programs that decided that they didn't like the product, they could effectively run a free trial with us with our money-back guarantee.  
@@ -42,7 +42,7 @@ I came to a few realizations:
 * We had too many pricing tiers.  We had 7 different pricing bands based on the number of participants that a program worked with in a given year.  Most of our customers were paying $100-$200 per month or $400-600 per month.  We should simplify and charge the midpoints of our most popular pricing bands: $150 or $500 per month.
 * The number of staff that want access to our staff dashboards scales with the number of users in the program, for the most part.  As I mentioned before, estimating enrollment in a job training program is much harder than estimating the number of staff that will be involved in prepping job seekers for interviews.
 * COVID-19 was directly impacting job training programs (skyrocketing unemployment paired with tenuous funding).  By pricing based on staff dashboard access only, we are able to open our doors to as many job seekers as programs need to support during this time of crisis.
-* My friend <a href='https://www.linkedin.com/in/soroushjp/?originalSubdomain=au'>Soroush</a> shared <a href='this article</a> with me on pricing best practices.  I’ve read many articles on the topic, but I found this one especially concise and easy to implement.  It talks about price anchoring, the decoy effect, and the paradox of choice, and I used all of these tactics in my new pricing.
+* My friend <a href='https://www.linkedin.com/in/soroushjp/?originalSubdomain=au'>Soroush</a> shared [this article](https://capitalandgrowth.org/answers/Article/3169972/The-Definitive-Guide-to-Pricing-Plans) with me on pricing best practices.  I’ve read many articles on the topic, but I found this one especially concise and easy to implement.  It talks about price anchoring, the decoy effect, and the paradox of choice, and I used all of these tactics in my new pricing.
 
 As of writing this post, here is a screenshot of the Talk Hiring pricing page.  
 
