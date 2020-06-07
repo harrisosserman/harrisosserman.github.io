@@ -9,6 +9,5 @@ I enjoy watching the dumbest comedies, pushing the limits of what you can air fr
 If you want to contact me, my email is harris DOT osserman AT gmail DOT com<br>
 I don't, by any means, think that I know what I'm doing when building companies, but I think that I have a lot of experience to share!
 
-![Not a Kindle ad, but it could be](https://images.bloggi.co/745dfa2c.jpg)
 ![Winning an award from Ron Chernow](https://images.bloggi.co/dc41dff1.JPG)
 ![harris georgia](https://images.bloggi.co/2d9fc0cd.jpeg)

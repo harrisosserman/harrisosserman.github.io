@@ -1,24 +1,35 @@
-# Dependencies
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Harris Osserman
-tagline:          ''
-description:      '👋 I’m building a realistic mock interviewing tool with instant feedback that’s fully automated (<a href='https://talkhiring.com'>Talk Hiring</a>).'
-url:              http://hyde.getpoole.com
-baseurl:          /
-
+highlighter: pygments
+permalink: pretty
+title: Harris Osserman
+tagline: ''
+description: '👋 I’m building a realistic mock interviewing tool with instant feedback that’s fully automated (www.talkhiring.com).'
+baseurl:  /
 author:
-  name:           'Harris Osserman'
-  url:            https://twitter.com/harrisosserman
+  name: 'Harris Osserman'
+  url:  https://twitter.com/harrisosserman
+paginate: 5
 
-paginate:         5
+# # Dependencies
+# highlighter:      pygments
 
-# Custom vars
-version:          2.1.0
+# # Permalinks
+# permalink: pretty
 
-github:
-  repo:           https://github.com/poole/hyde
+# # Setup
+# title:  Harris Osserman
+# tagline:  ''
+# description:  '👋 I’m building a realistic mock interviewing tool with instant feedback that’s fully automated (<a href='https://talkhiring.com'>Talk Hiring</a>).'
+# url:  http://hyde.getpoole.com
+# baseurl:  /
+
+# author:
+#   name: 'Harris Osserman'
+#   url:  https://twitter.com/harrisosserman
+
+# paginate: 5
+
+# # Custom vars
+# version:  2.1.0
+
+# github:
+#   repo: https://github.com/poole/hyde
