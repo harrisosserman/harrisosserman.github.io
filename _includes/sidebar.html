@@ -6,7 +6,9 @@
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+      <p class="lead">
+        I’m building a realistic mock interviewing tool with instant feedback that’s fully automated (<a href="https://www.talkhiring.com">www.talkhiring.com</a>).
+      </p>
     </div>
 
     <nav class="sidebar-nav">
@@ -16,7 +18,8 @@
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
-
+      <a class="sidebar-nav-item" href="https://www.linkedin.com/in/harris-osserman-02691528/">LinkedIn</a>
+      <a class="sidebar-nav-item" href="https://twitter.com/harrisosserman">Twitter</a>
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
