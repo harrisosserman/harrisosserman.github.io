@@ -7,7 +7,7 @@ baseurl:  /
 author:
   name: 'Harris Osserman'
   url:  https://twitter.com/harrisosserman
-paginate: 5
+paginate: 10
 
 # # Dependencies
 # highlighter:      pygments
