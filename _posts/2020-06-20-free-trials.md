@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Free Trials: Do they see the benefit?"
+image: "{{ site.url }}/images/staff_dashboard_screenshot.png"
 ---
 "Do they see the benefit?" is what my business coach always asks me when we're going down the list of where prospects are in the sales process.  It's all about structuring a sales process that helps the customer see that the benefits far outweigh the costs.  Pricing less than customer value is a good thing!  My customers are nonprofit job training programs and public schools, so I have an especially uphill battle. 
 
