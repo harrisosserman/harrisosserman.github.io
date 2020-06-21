@@ -22,7 +22,9 @@ What we settled on
 - Prospects are incentivized to roll out Talk Hiring quickly because of our 45-day cutoff.  And if they're not rolling it out, the 45-day cutoff is a great thing to remind prospects of via email.  "If you do at least x mock interviews in the next y days, you'll get another 50 mock interviews for free."
 - In a standard usage-based trial, the metric of usage (in this case, mock interviews) would be viewed as a scarce resource.  But in our case, we're getting prospects in the mindset of viewing mock interviews as the opposite.
 - Having a time cutoff is important just so that free trials don't linger forever.  6 months is long enough to give prospects a few different opportunities to try to roll out the tool, but not so long that free trials can linger forever.
-- Any and all staff at prospective organizations that want dashboard access can get dashboard access during free trials.  Our dashboards are structured to track the real-time data to answer the 3 ways that most prospects evaluate our tool (ex. do they use the tool, do they like using it, are they improving their interviewing skills).
+- Any and all staff at prospective organizations that want dashboard access can get dashboard access during free trials.  Our dashboards are structured to track the real-time data to answer the 3 ways that most prospects evaluate our tool (ex. do they use the tool, do they like using it, are they improving their interviewing skills).  Dashboard below:
+
+![Dashboard]({{ site.url }}/images/staff_dashboard_screenshot.png)
 
 To give a little more context, I felt like it would be helpful to give you some background on how I structure my sales process.
 
