@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   {% if page.image %}
-  <meta property="og:image" content="{{page.image}}">
+  <meta property="og:image" content="{{ '/' | relative_url }}{{page.image}}">
   {% endif %}
 
   <title>
