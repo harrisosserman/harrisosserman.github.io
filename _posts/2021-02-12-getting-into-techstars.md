@@ -2,7 +2,7 @@
 layout: post
 title: "Getting into Techstars"
 ---
-Today was my last day of the innaugural [Techstars Workforce Development Accelerator](https://demoday.techstars.com/workforce-development-2020-t6).  It was the greatest entrepreneurial learning experience of my life.  But, in this point, I'm not going to talk about that. I'm going to bring you back in time to September 17, 2020.  
+Today was my last day of the innaugural [Techstars Workforce Development Accelerator](https://demoday.techstars.com/workforce-development-2020-t6).  It was the greatest entrepreneurial learning experience of my life.  But, in this post, I'm not going to talk about that. I'm going to bring you back in time to September 17, 2020.  
 
 Over a period of 73 days from July 6 to September 17, I had 7 interviews with Techstars.  I was also sending biweekly business status update emails to them.  Final decisions for the class were due on September 18, and I still hadn't heard by the morning of the 17th.  I figured I was extremely borderline, and couldn't sleep.  I got out of bed early in the morning and typed out the following business update email, sending it at 6:33 AM.
 
@@ -59,4 +59,4 @@ Here is what I sent them:
 At 4:16 PM that day, I got this email from Taylor:
 >Harris, when you have a moment, can you give me a call? 
 
-When I called, he started off with all the reasons why Talk Hiring is great.  I was waiting for him to say "but we have decided to put you on the waitlist" or "but we have declined you a spot in this year's cohort."  Instead, I never got the "but" and am so grateful :)
+When I called, he started off with all the reasons why Talk Hiring is great.  I was waiting for him to say "but we have decided to put you on the waitlist" or "but the process was extremely competitive, and we have declined you a spot in this year's cohort."  Instead, I never got the "but" and am so grateful :)
