@@ -14,7 +14,9 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.excerpt }}
+    <!-- post.excerpt shows just the first paragraph of text -->
+    <!-- {{ post.excerpt }} -->
+    {{ post.content | truncatewords: 75 }}
   </div>
   {% endfor %}
 </div>
