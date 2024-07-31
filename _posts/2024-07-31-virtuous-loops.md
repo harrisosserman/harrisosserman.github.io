@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building Virtuous Product Loops: The Hire Rewards Journey"
+title: "Building Virtuous Product Loops"
 ---
 All great consumer products need positive feedback loops, where events that happen via the product reinforce further usage of the product. Here’s how we built this kind of a virtuous, positive feedback loop within Hire Rewards.
 
