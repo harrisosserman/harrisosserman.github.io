@@ -2,7 +2,6 @@
 layout: post
 title: "Selling My First Company"
 ---
-# Selling Talk Hiring, My First Acquisition
 
 I did an interview with the Founder of Acquire.com on my journey as an entrepreneur, and the process of selling my first business, Talk Hiring.  
 
